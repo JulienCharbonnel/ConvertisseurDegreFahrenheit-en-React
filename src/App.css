@@ -1,0 +1,23 @@
+/* Le design pour le convertisseur de degré 
+  * On centre le contenu de la page
+  * On centre les deux champs de saisie 
+  * On centre le bouton de conversion
+*/
+
+body {
+  text-align: center;
+}
+
+input {
+  margin: 0 auto;
+  display: block;
+}
+
+button {
+  margin: 0 auto;
+  display: block;
+}
+
+
+
+
